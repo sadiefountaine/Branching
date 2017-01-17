@@ -1,3 +1,7 @@
 California - 49 degrees and Mostly Sunny
 
+<<<<<<< HEAD
+Rexburg, Idaho - 9 degrees and Mostly Sunny
+=======
 Florida - 79 degrees and Partly Cloudy
+>>>>>>> Branch1
