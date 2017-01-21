@@ -20,3 +20,8 @@ It felt like 42 degrees.
 
 Precipitation was at 0.1 inches
 Visibility was 3 miles
+
+California Today:
+
+The sunrise was at 7:11 am
+The sunset was at 5:14 pm
