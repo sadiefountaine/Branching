@@ -25,3 +25,5 @@ California Today:
 
 The sunrise was at 7:11 am
 The sunset was at 5:14 pm
+
+The chance of rain was at 40%
