@@ -1,12 +1,32 @@
 California - 49 degrees and Mostly Sunny
 
-<<<<<<< HEAD
+
 Rexburg, Idaho - 9 degrees and Mostly Sunny
-=======
+
+
 Florida - 79 degrees and Partly Cloudy
 >>>>>>> Branch1
+
 
 
 Friday, January 20, 2017 Rexburg is 15 degrees and mostly cloudy.
 
 Florida is 64 degrees and clear.
+
+
+Different changes:
+
+Instead of saying the temperature for Florida I am going to put down a few new information bits.
+In Florida today:
+
+The sunrise was at 7:21 am
+The sunset was at 5:55 pm
+
+There was a 10% chance of rain.
+It was at 100% humidity today.
+
+The wind was 5mph to the East.
+The weather felt like 64 degrees.
+
+There was 0 inches of precipitation
+Visibility was 10 miles.
