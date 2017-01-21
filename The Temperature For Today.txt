@@ -26,3 +26,5 @@ South Jordan Today:
 
 The sunrise was at 7:45 am
 The sunset was at 5:32 pm
+
+The chance of snow was 50%
