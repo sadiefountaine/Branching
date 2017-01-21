@@ -5,3 +5,6 @@ Rexburg, Idaho - 9 degrees and Mostly Sunny
 =======
 Florida - 79 degrees and Partly Cloudy
 >>>>>>> Branch1
+
+
+Friday, January 20, 2017 Rexburg is 15 degrees and mostly cloudy.
