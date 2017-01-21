@@ -30,3 +30,9 @@ The weather felt like 64 degrees.
 
 There was 0 inches of precipitation
 Visibility was 10 miles.
+
+
+In Idaho today:
+
+The Sunrise was at 7:54 am
+The Sunset was at 5:23 pm
